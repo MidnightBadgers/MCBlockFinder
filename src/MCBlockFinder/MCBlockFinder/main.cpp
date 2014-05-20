@@ -2,7 +2,7 @@
 //  main.cpp
 //  MCBlockFinder
 //
-//  Created by Robert Pelger on 5/19/14.
+//  Created by Robert Pelger on 5/20/14.
 //  Copyright (c) 2014 MidnightBadgers. All rights reserved.
 //
 
